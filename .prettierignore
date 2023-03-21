@@ -1,0 +1,6 @@
+dist/
+tsconfig.json
+.gitignore
+jest.config.yml
+LICENSE
+package-lock.json
